@@ -1,2 +1,2 @@
 # Mywebsite
-A small project built using Django
+A small project built using Django.
